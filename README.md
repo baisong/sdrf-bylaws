@@ -194,8 +194,12 @@ those issues.
 Shall address domestic violence Issues for persons fleeing war and violent conflict 
 in San Diego; facilitate the education of the San Diego community about these 
 issues; and spearhead the Forum’s advocacy efforts and involvement in public 
-policymaking around those issues. 
- 
+policymaking around those issues.
+
+###### g. Advocacy Task Force
+Shall promote inclusive communities and strong local economies through collaborative advocacy
+and civic engagement.
+
 ##### 2. Ad Hoc Committees
 May be appointed by the Chairperson as needed and nominated by members of the Refugee Forum. 
  
@@ -212,7 +216,8 @@ The annual budget of the forum will be composed of membership fees. The forum wi
 outside funding unless in those cases where individual members are ineligible for the funding 
 source sought; or the funding opportunity is likely to improve service coordination and 
 collaboration among service providers and the Forum is uniquely well positioned to facilitate 
-those goals. In these cases, the Forum will strive for the majority of the entire funding amount to be allocated directly as pass-through funds to member agencies. The Forum may seek 
+those goals. In these cases, the Forum will strive for the majority of the entire funding
+amount to be allocated directly as pass-through funds to member agencies. The Forum may seek 
 sponsorship and other support for regular and special events.
 
 ## ARTICLE VII: AMENDMENTS 
