@@ -208,7 +208,7 @@ Active committee/ Task Force Chairs may request reimbursement approval from the 
 
 The Executive Committee shall present next year’s budget projection to the forum at a general forum meeting no sooner than July and no later than October. This budget projection shall include the next year’s committee/ Task Force reimbursement limit.
 
-The reimbursement limit applies to all committees/ Task Forces, except the World Refugee Day Planning Committee. 
+The reimbursement limit applies to all committees/ Task Forces except the World Refugee Day Planning Committee. 
 
 ## ARTICLE IX: AFFILIATION LETTERS 
 Member agencies can present requests for affiliation letters from the Forum to the Executive 
