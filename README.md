@@ -50,17 +50,6 @@ member may choose to designate a different representative or representatives to
 Forum committees than it designates as the members for the general meeting of the 
 Forum. 
 
-#### X. Community-Based Member Organizations
-Organizational members are considered “Community-Based Organizational Members” if they meet at least one of the following definitions at the time they apply for membership:
-- "a non-profit organization whose board of directors is composed of at least 60 percent current and/or former refugees" 
-- "a non-profit organization that was founded and is led by a current or former refugee", or
-- "a group of current and former refugees and immigrants, primarily for the advancement of refugees"
-
-These definitions come from the Office of Refugee Resettlement (ORR) Ethnic Community Self-Help (ECSH) Program's [Implementation Guidelines FY 2016-2019](https://www.acf.hhs.gov/sites/default/files/orr/2016_2019_guidelines_for_ecsh_program.pdf).
-
-#### X. Resettlement Agency Member Organizations
-
- 
 #### B. Place and Time of Meeting
 Membership meetings will be held monthly and shall be held in San Diego County at a 
 location designated by the membership. Members will be notified of any change in the 
@@ -73,9 +62,7 @@ membership.
 #### D. Dues
 There will be annual membership dues of $30 per individual membership and $60 per 
 agency/organization. The fiscal year of the organization shall be from January 1st to 
-December 31st. 
-
-Community-Based Organizational Members may pay reduced dues equal to that of individual membership.
+December 31st.
  
 #### E. Voting
 All persons attending general meetings of the Forum shall be entitled to a seat and a 
