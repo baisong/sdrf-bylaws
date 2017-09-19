@@ -216,9 +216,7 @@ The annual budget of the forum will be composed of membership fees. The forum wi
 outside funding unless in those cases where individual members are ineligible for the funding 
 source sought; or the funding opportunity is likely to improve service coordination and 
 collaboration among service providers and the Forum is uniquely well positioned to facilitate 
-those goals. In these cases, the Forum will strive for the majority of the entire funding
-amount to be allocated directly as pass-through funds to member agencies. The Forum may seek 
-sponsorship and other support for regular and special events.
+those goals. In these cases, the Forum will strive for the majority of the entire funding amount to be allocated directly as pass-through funds to member agencies. The Forum may seek 
 
 ## ARTICLE VII: AMENDMENTS 
 Amendments to these By-Laws can be proposed by the Executive Committee and require a 
