@@ -199,9 +199,9 @@ May be appointed by the Chairperson as needed and nominated by members of the Re
 ###### x. Reimbursements
 Committee/ Task Force Chairs make their reimbursement requests to the Executive Committee in advance of any anticipated expense. Committee/ Task Force Chairs must receive approval and provide digital or physical receipts in order to receive reimbursement.
 
-The executive committee shall present next year’s budget projection to the forum at a general forum meeting no sooner than July and no later than October. This budget projection shall include the next year’s Task Force reimbursement limit.
+The Executive Committee shall present next year’s budget projection to the forum at a general forum meeting no sooner than July and no later than October. This budget projection shall include the next year’s committee/ Task Force reimbursement limit.
 
-The reimbursement limit applies to all task forces, except the World Refugee Day Planning Committee and the Executive Committee. 
+The reimbursement limit applies to all committees/ Task Forces, except the World Refugee Day Planning Committee. 
 
 ## ARTICLE IX: AFFILIATION LETTERS 
 Member agencies can present requests for affiliation letters from the Forum to the Executive 
