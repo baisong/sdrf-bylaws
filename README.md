@@ -197,7 +197,11 @@ policymaking around those issues.
 May be appointed by the Chairperson as needed and nominated by members of the Refugee Forum. 
 
 ###### x. Delinquency and Reactivation
-If at any time a committee/ Task Force does not have two approved co-chairs, or a Task Force has not presented updates at a general forum meeting in the past 6 months, it shall be considered delinquent. Delinquent Task Forces can become active again by submitting co-chair information, and, upon approval, presenting an update to the general forum.
+A committee/ Task Force shall be considered delinquent at any time it:
+- has fewer than two approved co-chairs, or 
+- has not presented updates at a general forum meeting in the past 6 months
+
+Delinquent committees/ Task Forces can reactivate by submitting co-chair information to the Executive Committee, and, upon approval, presenting an update at a monthly general forum meeting.
 
 ###### x. Reimbursements
 Active committee/ Task Force Chairs may request reimbursement approval from the Executive Committee in advance of an anticipated expense. Once approved, committee/ Task Force Chairs must provide digital or physical receipts in order to receive reimbursement.
