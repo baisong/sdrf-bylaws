@@ -60,7 +60,7 @@ A quorum for the purpose of holding a meeting shall be the simple majority of th
 membership. 
  
 #### D. Dues
-There will be annual membership dues of $35 per individual membership and $70 per 
+There will be annual membership dues of $30 per individual membership and $60 per 
 agency/organization. The fiscal year of the organization shall be from January 1st to 
 December 31st. 
  
