@@ -152,22 +152,17 @@ committees/ Task Forces shall exist solely to fulfill the purpose and mission of
 Each task force (b-g below) will appoint two co-chairs from within its membership. The 
 co-chairs must be confirmed by the Executive Committee and shall present updates on 
 the committees’ work to the membership at large at the monthly general meetings. 
-
-##### 1. Executive Committee 
+ 
+##### 1. Standing Committees/ Task Forces:
+> Make "Executive Committee" it's own section.
+###### a. Executive Committee 
 The Executive Committee is composed of all elected, ex officio and at large 
 officers. It shall act as the Executive Board of the Organization. The Executive 
 Committee shall facilitate the business of the Forum. The Executive Committee 
 will make emergency decisions and become the ad hoc nominating committee 
 if an officer is unable to complete his/her term of office. 
  
-The Executive Committee shall meet, at minimum, once a month in advance of 
-the regular monthly general membership forum meeting.
-
-###### a. Reimbursements
-The Executive Committee establishes and manages the Forum budget. Committee/ Task Force 
-Chairs make their reimbursement requests to the Executive Committee in advance of any anticipated expense. Task Force Chairs must receive approval and provide digital or physical receipts in order to receive reimbursement.
-
-##### 2. Standing Committees/ Task Forces: 
+The Executive Committee shall meet, at minimum, once a month in advance of the regular monthly general membership forum meeting. The Executive Committee establishes and manages the Forum budget. 
 
 ###### b. World Refugee Day Planning Committee
 Shall promote awareness of the Forum and the refugee community in the San 
@@ -199,10 +194,14 @@ issues; and spearhead the Forum’s advocacy efforts and involvement in public
 policymaking around those issues. 
  
 ##### 2. Ad Hoc Committees
-May be appointed by the Chairperson as needed and nominated by members of the Refugee Forum.
+May be appointed by the Chairperson as needed and nominated by members of the Refugee Forum. 
 
-##### 3. Activation/Delinquency
-If at any time a Committee/ Task Force does not have two approved co-chairs, or a Task Force has not presented updates at a general forum meeting in the past 6 months, it shall be considered delinquent. Delinquent Task Forces can become active again by submitting co-chair information, and, upon approval, presenting an update to the general forum.
+###### x. Reimbursements
+Committee/ Task Force Chairs make their reimbursement requests to the Executive Committee in advance of any anticipated expense. Committee/ Task Force Chairs must receive approval and provide digital or physical receipts in order to receive reimbursement.
+
+The executive committee shall present next year’s budget projection to the forum at a general forum meeting no sooner than July and no later than October. This budget projection shall include the next year’s Task Force reimbursement limit.
+
+The reimbursement limit applies to all task forces, except the World Refugee Day Planning Committee and the Executive Committee. 
 
 ## ARTICLE IX: AFFILIATION LETTERS 
 Member agencies can present requests for affiliation letters from the Forum to the Executive 
