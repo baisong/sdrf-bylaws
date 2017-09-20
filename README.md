@@ -162,7 +162,9 @@ Committee shall facilitate the business of the Forum. The Executive Committee
 will make emergency decisions and become the ad hoc nominating committee 
 if an officer is unable to complete his/her term of office. 
  
-The Executive Committee shall meet, at minimum, once a month in advance of the regular monthly general membership forum meeting. The Executive Committee establishes and manages the Forum budget. 
+The Executive Committee shall meet, at minimum, once a month in advance of the regular monthly general membership forum meeting. The Executive Committee establishes and manages the Forum budget. The Executive Committee shall present next year’s budget projection to the forum at a general forum meeting no sooner than July and no later than October. This budget projection shall include the next year’s committee/ Task Force reimbursement limit.
+
+The reimbursement limit applies to all committees/ Task Forces except the World Refugee Day Planning Committee. 
 
 ###### b. World Refugee Day Planning Committee
 Shall promote awareness of the Forum and the refugee community in the San 
@@ -205,10 +207,6 @@ Delinquent committees/ Task Forces can reactivate by submitting co-chair informa
 
 ###### x. Reimbursements
 Active committee/ Task Force Chairs may request reimbursement approval from the Executive Committee in advance of an anticipated expense. Once approved, committee/ Task Force Chairs must provide digital or physical receipts in order to receive reimbursement.
-
-The Executive Committee shall present next year’s budget projection to the forum at a general forum meeting no sooner than July and no later than October. This budget projection shall include the next year’s committee/ Task Force reimbursement limit.
-
-The reimbursement limit applies to all committees/ Task Forces except the World Refugee Day Planning Committee. 
 
 ## ARTICLE IX: AFFILIATION LETTERS 
 Member agencies can present requests for affiliation letters from the Forum to the Executive 
