@@ -52,11 +52,12 @@ Forum.
 
 #### X. Community-Based Member Organizations
 Organizational members are considered “Community-Based Organizational Members” if they meet at least one of the following definitions at the time they apply for membership:
-- "a non-profit organization whose board of directors is composed of at least 60 percent current and/or former refugees" 
-- "a non-profit organization that was founded and is led by a current or former refugee", or
-- "a group of current and former refugees and immigrants, primarily for the advancement of refugees"
+- “a non-profit organization that was founded and is led by a current or former refugee”
+- “a group of current and former refugees and immigrants, primarily for the advancement of refugees”
+- “a non-profit organization whose board of directors is composed of at least 60 percent current and/or former refugees”, or
+- “a non-profit community-based organization whose governing board is comprised of a majority (at least 51 percent) who are current or former refugees”
 
-These definitions come from the Office of Refugee Resettlement (ORR) Ethnic Community Self-Help (ECSH) Program's [Implementation Guidelines FY 2016-2019](https://www.acf.hhs.gov/sites/default/files/orr/2016_2019_guidelines_for_ecsh_program.pdf).
+These definitions come from the Office of Refugee Resettlement (ORR) Ethnic Community Self-Help (ECSH) Program's [Implementation Guidelines FY 2016-2019](https://www.acf.hhs.gov/sites/default/files/orr/2016_2019_guidelines_for_ecsh_program.pdf) and the  California Department of Social Services (CDSS) [2016 Ethnic Community-based Organizations Fact Sheet](http://www.cdss.ca.gov/refugeeprogram/res/pdf/Factsheets/ECBO_Fact_Sheet.pdf).
 
 #### B. Place and Time of Meeting
 Membership meetings will be held monthly and shall be held in San Diego County at a 
