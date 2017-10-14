@@ -164,12 +164,10 @@ if an officer is unable to complete his/her term of office.
  
 The Executive Committee shall meet, at minimum, once a month in advance of the regular monthly general membership forum meeting. The Executive Committee establishes and manages the Forum budget. The Executive Committee shall present next year’s budget projection to the forum at a general forum meeting no sooner than July and no later than October. This budget projection shall include the next year’s committee/ Task Force reimbursement limit.
 
-The reimbursement limit applies to all committees/ Task Forces except the World Refugee Day Planning Committee. 
-
 ###### b. World Refugee Day Planning Committee
 Shall promote awareness of the Forum and the refugee community in the San 
 Diego community and by organizing annual World Refugee Day celebration 
-event in June. 
+event in June. The World Refugee Day Planning Committee is not obligated to provide quarterly minutes between July and December, and is not subject to the Task Force reimbursement limit.
  
 ###### c. Health Task Force
 Shall identify issues around health care and access to healthcare of concern to 
