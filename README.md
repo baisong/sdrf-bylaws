@@ -202,8 +202,12 @@ those issues.
 Shall address domestic violence Issues for persons fleeing war and violent conflict 
 in San Diego; facilitate the education of the San Diego community about these 
 issues; and spearhead the Forum’s advocacy efforts and involvement in public 
-policymaking around those issues. 
- 
+policymaking around those issues.
+
+###### g. Advocacy Task Force
+Shall promote inclusive communities and strong local economies through collaborative advocacy
+and civic engagement.
+
 ##### 2. Ad Hoc Committees
 May be appointed by the Chairperson as needed and nominated by members of the Refugee Forum. 
 
