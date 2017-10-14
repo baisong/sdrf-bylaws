@@ -167,7 +167,9 @@ The Executive Committee shall meet, at minimum, once a month in advance of the r
 ###### b. World Refugee Day Planning Committee
 Shall promote awareness of the Forum and the refugee community in the San 
 Diego community and by organizing annual World Refugee Day celebration 
-event in June. The World Refugee Day Planning Committee is not obligated to provide quarterly minutes between July and December, and is not subject to the Task Force reimbursement limit.
+event in June.
+
+The World Refugee Day Planning Committee is not obligated to provide quarterly minutes between July and December, and is not subject to the Task Force reimbursement limit.
  
 ###### c. Health Task Force
 Shall identify issues around health care and access to healthcare of concern to 
