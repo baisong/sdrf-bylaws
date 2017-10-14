@@ -199,9 +199,12 @@ policymaking around those issues.
 May be appointed by the Chairperson as needed and nominated by members of the Refugee Forum. 
 
 ###### x. Delinquency and Reactivation
-A committee/ Task Force shall be considered delinquent at any time it:
-- has fewer than two approved co-chairs, or 
-- has not provided meeting minutes in the past 4 months
+To be considered active, all committees/Task Forces must:
+
+1. have two approved co-chairs, and
+2. provide quarterly minutes to the executive committee.
+
+A committee/ Task Force shall be considered delinquent/inactive if at any time it has fewer than two approved co-chairs, or  has not provided meeting minutes in the past 4 months.
 
 Delinquent committees/ Task Forces can reactivate by submitting co-chair and operating guideline information to the Executive Committee, and, upon approval, sending meeting minutes to the Executive Committee.
 
