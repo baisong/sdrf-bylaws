@@ -162,7 +162,8 @@ Each task force (b-g below) will appoint two co-chairs from within its membershi
 co-chairs must be confirmed by the Executive Committee and shall present updates on 
 the committees’ work to the membership at large at the monthly general meetings. 
  
-##### 1. Standing Committees/ Task Forces: 
+##### 1. Standing Committees/ Task Forces:
+> Make "Executive Committee" it's own section.
 ###### a. Executive Committee 
 The Executive Committee is composed of all elected, ex officio and at large 
 officers. It shall act as the Executive Board of the Organization. The Executive 
@@ -170,16 +171,14 @@ Committee shall facilitate the business of the Forum. The Executive Committee
 will make emergency decisions and become the ad hoc nominating committee 
 if an officer is unable to complete his/her term of office. 
  
-The Executive Committee shall meet, at minimum, once a month in advance of 
-the regular monthly general membership forum meeting. The Executive 
-Committee establishes and manages the Forum budget. Committee/ Task Force 
-Chairs make their budget requests to the Executive Committee in advance of 
-any anticipated expense. 
+The Executive Committee shall meet, at minimum, once a month in advance of the regular monthly general membership forum meeting. The Executive Committee establishes and manages the Forum budget. The Executive Committee shall present next year’s budget projection to the forum at a general forum meeting no sooner than July and no later than October. This budget projection shall include the next year’s committee/ Task Force reimbursement limit.
 
 ###### b. World Refugee Day Planning Committee
 Shall promote awareness of the Forum and the refugee community in the San 
 Diego community and by organizing annual World Refugee Day celebration 
-event in June. 
+event in June.
+
+The World Refugee Day Planning Committee is not obligated to provide quarterly minutes between July and December, and is not subject to the Task Force reimbursement limit.
  
 ###### c. Health Task Force
 Shall identify issues around health care and access to healthcare of concern to 
@@ -207,7 +206,20 @@ policymaking around those issues.
  
 ##### 2. Ad Hoc Committees
 May be appointed by the Chairperson as needed and nominated by members of the Refugee Forum. 
- 
+
+###### x. Delinquency and Reactivation
+To be considered active, all committees/Task Forces must:
+
+1. have two approved co-chairs, and
+2. provide quarterly minutes to the executive committee.
+
+A committee/ Task Force shall be considered delinquent/inactive if at any time it has fewer than two approved co-chairs, or  has not provided meeting minutes in the past 4 months.
+
+Delinquent committees/ Task Forces can reactivate by submitting co-chair and operating guideline information to the Executive Committee, and, upon approval, sending meeting minutes to the Executive Committee.
+
+###### x. Reimbursements
+Active committee/ Task Force Chairs may request reimbursement approval from the Executive Committee in advance of an anticipated expense. Once approved, committee/ Task Force Chairs must provide digital or physical receipts in order to receive reimbursement.
+
 ## ARTICLE IX: AFFILIATION LETTERS 
 Member agencies can present requests for affiliation letters from the Forum to the Executive 
 Committee no later than two weeks before they desire receipt of a signed letter. Members 
