@@ -63,8 +63,6 @@ membership.
 There will be annual membership dues of $30 per individual membership and $60 per 
 agency/organization. The fiscal year of the organization shall be from January 1st to 
 December 31st.
-
-ECBO Organizational Members may pay reduced dues equal to that of individual membership.
  
 #### E. Voting
 All persons attending general meetings of the Forum shall be entitled to a seat and a 
